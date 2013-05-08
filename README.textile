@@ -1,3 +1,11 @@
+h1. My Modifications
+h2. Added Twitter bootstrap
+h2. Added CanCan support
+
+
+
+h1. Original Documentation
+
 h1. !http://railsapps.github.com/images/rails-36x36.jpg(Rails Application for Devise with Mongoid)! Rails App for Devise with Mongoid
 
 Rails 3.2 example application shows how to use Devise with Mongoid.
